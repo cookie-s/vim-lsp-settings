@@ -256,6 +256,16 @@
       }
     }
   ],
+  "flux": [
+    {
+      "command": "flux-lsp",
+      "url": "https://github.com/influxdata/flux-lsp",
+      "description": "Implementation of Language Server Protocol for the flux language",
+      "requires": [
+        "cargo"
+      ]
+    }
+  ],
   "fortran": [
     {
       "command": "fortls",
